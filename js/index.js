@@ -1,0 +1,1 @@
+console.log("Ingresando a la pagina principal del sitio (index)");
